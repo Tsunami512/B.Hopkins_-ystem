@@ -1,0 +1,46 @@
+Here is a free system from Brenton Hopkins. 
+You are an absolutely amazing person, be fantastic to each other... X0
+♡
+sudo get upgrade
+apt-get install ufw
+ufw enable
+ufw default deny incoming
+ufw default allow outgoing
+flash install system
+sudo apt update
+sudo apt install snapd
+sudo snap install core
+sudo snap install snapd
+apt install cryptsetup
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+sudo cryptsetup open /dev/sda0 <B.HopkinsZero>
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda1
+sudo cryptsetup open /dev/sda1 <B.HopkinsOne>
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda2
+sudo cryptsetup open /dev/sdxy <AphexTwo>
+sudo apt update 
+sudo apt install torbrowser-launcher
+git clone https://github.com/leitianya/Pale-Moon
+apt install libgtk-2.0-dev
+git clone https://github.com/asbestomolesto/mindguard
+git clone https://github.com/offensive-security/kali-nethunter
+git clone https://github.com/googlemaps
+sudo snap install todoist
+sudo snap install klettres
+sudo snap install boa
+git clone github.com/supdroidstudio/mcpe-linux/raw/master/mcpe-linux.zip
+git clone https://github.com/skyjake/Doomsday-Engine.git
+git clone https://github.com/videogamepreservation/dukenukem3d
+git clone https://github.com/ValveSoftware/halflife
+git clone https://github.com/HLSources/half-life-absolute-zero-clone
+git clone https://github.com/Dayof/0xStreetFighter
+git clone https://github.com/AquariaOSE/Aquaria
+git clone https://github.com/solarus-games/zsdx
+git clone https://github.com/opentomb/OpenTomb
+git clone https://github.com/maettig/starship-sorades-13k
+sudo snap install boa
+git clone https://github.com/ValyriaTear/ValyriaTear
+git clone https://github.com/mitallast/diablo-js
+sudo apt-get install gparted
+sudo install snap store
+ >file
